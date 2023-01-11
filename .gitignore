@@ -9,5 +9,6 @@ rust-project.json
 .idea
 .vscode/*
 !.vscode/extensions.json
+!.vscode/practice-on-codespaces.code-profile
 *.iml
 *.o
